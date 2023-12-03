@@ -9,7 +9,7 @@ MagicGadgetFinder is a tool designed to search for and identify magic gadgets wi
 ### 1. Clone the Repository
 
 ```
-git clone https://
+git clone https://github.com/nyyyddddn/MagicGadgetFinder.git
 ```
 
 ### 2. Install Dependencies
