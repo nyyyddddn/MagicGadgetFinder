@@ -11,7 +11,7 @@ MagicGadgetFinder is a tool designed to search for and identify magic gadgets wi
 ### 1. Clone the Repository
 
 ```
-git clone https://
+git clone https://github.com/nyyyddddn/MagicGadgetFinder.git
 ```
 
 ### 2. Install Dependencies
@@ -35,4 +35,5 @@ python magicGadgetFinder.py file
 ```
 
 ### add search rules
+
 To add custom search rules in MagicGadgetFinder, simply insert new rules into the bytecodes array in the code.
